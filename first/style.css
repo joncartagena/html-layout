@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    background: #D8D8D8;
+}
+.box {
+    width:100%;
+    height: 135PX;
+    color: black;
+    background: #444444;
+}
+
+.boxleft  {
+	width: 900PX;
+    height:900px;
+    color: white;
+    background: white;
+    margin: 0 auto;
+}
+.boxBottom {
+	width: 900PX;
+    height:100px;
+    color: #222222 ;
+    background: #222222;
+	margin: 0 auto;
+}
